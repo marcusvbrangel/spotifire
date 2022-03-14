@@ -3,8 +3,12 @@
   "version": "1.0.0",
   "description": "A clone digital music service",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "node": "17"
   },
   "repository": {
     "type": "git",
