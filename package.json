@@ -1,7 +1,7 @@
 {
   "name": "spotifire",
   "version": "1.0.0",
-  "description": "A clone digital music service",
+  "description": "A digital clone music service",
   "main": "index.js",
   "type": "module",
   "scripts": {
