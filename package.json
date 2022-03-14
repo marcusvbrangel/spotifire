@@ -1,0 +1,15 @@
+{
+  "name": "spotifire",
+  "version": "1.0.0",
+  "description": "A clone digital music service",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://marcusvbrangel/spotifire"
+  },
+  "author": "Marcus Rangel",
+  "license": "MIT"
+}
